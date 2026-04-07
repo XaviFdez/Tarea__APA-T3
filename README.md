@@ -1,11 +1,11 @@
 # Tercera tarea de APA: Multiplicación de vectores y ortogonalidad
 
-## Nom i cognoms
+## Xavier Fernández
 
 > [!Important]
 > Introduzca a continuación su nombre y apellidos:
 >
-> Fulano Mengano Zutano
+> Xavier Fernández Rodriguez
 
 ## Aviso Importante
 
