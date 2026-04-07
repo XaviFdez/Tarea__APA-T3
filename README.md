@@ -95,7 +95,8 @@ $v_2$, y $v_1^\perp$ es normal (perpendicular) a $v_2$.
 Inserte a continuación una captura de pantalla que muestre el resultado de ejecutar el
 fichero `algebra/vectores.py` con la opción *verbosa*, de manera que se muestre el
 resultado de la ejecución de los tests unitarios.
-<img width="384" height="606" alt="image" src="https://github.com/user-attachments/assets/aa2b67c6-738d-4faa-a2b3-0de7d57a1f79" />
+<img width="386" height="604" alt="image" src="https://github.com/user-attachments/assets/25ac8e98-2207-4428-9768-50a51bc2f48b" />
+
 <img width="244" height="293" alt="image" src="https://github.com/user-attachments/assets/2dcacd60-7fb2-4b64-b53b-352d9d82617c" />
 
 
